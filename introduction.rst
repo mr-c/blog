@@ -16,8 +16,9 @@ Workflow Language project <http://common-workflow-language.github.io/>`_.
 Background
 ==========
 
-The CWL began back in July 2014 in Boston, MA, USA at the codefest preceding
-the Bioinformatics Open Source Conference. John Chilton, from the Galaxy Team,
+The CWL began in July 2014 in Boston, MA, USA at the `codefest preceding
+the Bioinformatics Open Source Conference
+<http://www.open-bio.org/wiki/Codefest_2014>`_. John Chilton, from the Galaxy Team,
 approached Nebojša Tijanić of Seven Bridges Genomics, about workflow
 interoperability. They were quickly joined by Peter Amstutz from Curoverse,
 Hervé Ménager from the Pasteur Institute and by myself.
