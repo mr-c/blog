@@ -72,6 +72,7 @@ Six Month Plan
    In addition, specific community engagement metrics will be reported.
 
 Group goals:
+
 1. A system of project governance is agreed upon and set up through a
 community-centered process. 
 
@@ -105,23 +106,23 @@ Long Term Goals
 ===============
 
 1. CWL Workflows are the preferred way to fulfill the now-ubiquitous journal and
-funder requirements for computational reproducibility and reusability in the
-life sciences and beyond. (supplying a CWL compliant workflow version fulfills
-journal requirements for reproducibility and fast-tracks publications) 
+   funder requirements for computational reproducibility and reusability in the
+   life sciences and beyond. (supplying a CWL compliant workflow version fulfills
+   journal requirements for reproducibility and fast-tracks publications) 
 2. Scientific tool authors ship CWL tool definitions as a matter of course. Most
-of them are made automatically when the authors use standard libraries. For
-some tools the community provides the definitions. Regardless of the source,
-the CWL tool definitions are shipped alongside each tool when installed using
-the major end-user package managers (Debian, RedHat, Conda, LinuxBrew).
+   of them are made automatically when the authors use standard libraries. For
+   some tools the community provides the definitions. Regardless of the source,
+   the CWL tool definitions are shipped alongside each tool when installed using
+   the major end-user package managers (Debian, RedHat, Conda, LinuxBrew).
 3. Workflow authors/users have a variety of tools to create, edit, and visualize
-workflows; both standalone as part of complete workflow systems.
+   workflows; both standalone as part of complete workflow systems.
 4. What constitutes a valid workflow/tool description is non-controversial.
-Automated checkers and community support are widely available.
+   Automated checkers and community support are widely available.
 5. Certifications of compliance are issued to conformant platforms in an automated
-fashion.
+   fashion.
 6. The CWL Project has a perfect score using the `Software Sustainability
-Institute’s criteria-based software evaluation <http://www.software.ac.uk/software-evaluation-guide>`_.
+   Institute’s criteria-based software evaluation <http://www.software.ac.uk/software-evaluation-guide>`_.
 7. The regular participants in the CWL project and leadership are diverse both by
-demographics (with global demographics as the target) and by skillset / field /
-role. 
+   demographics (with global demographics as the target) and by skillset / field /
+   role. 
 
