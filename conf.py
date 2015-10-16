@@ -22,7 +22,7 @@ blog_title = u'@mr-c snippets Blog'
 
 # Base URL for the website, required for generating feeds.
 # e.g. blog_baseurl = "http://example.com/"
-blog_baseurl = u'True'
+blog_baseurl = u'http://mrc.commonwl.org/'
 
 # Choose to archive only post titles. Archiving only titles can speed
 # up project building.
