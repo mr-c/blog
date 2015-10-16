@@ -1,7 +1,5 @@
-Welcome to Michael R. Crusoe's Blog!
-==========================================
-
-Hello World! Find more about me here: :ref:`about`
+Updates from @mr-c's CWL work
+=============================
 
 
 Here is a list of most recent posts:
