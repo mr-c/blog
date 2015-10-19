@@ -66,7 +66,7 @@ Six Month Plan
 4. I'll be meeting with the `Agave Platform <http://agaveapi.co/>`_ team in
    November to see about harmonizing our efforts.
 5. One to three additional meetups, workshops, or hackathons.
-6. A baseline sustainability report on the project will be written and used to
+6. A `baseline sustainability report <https://github.com/common-workflow-language/common-workflow-language/issues/136>`_ on the project will be written and used to
    further prioritize plans. This report will follow in spirit the
    `Criteria-based assessment of the khmer suite
    <http://figshare.com/articles/Criteria_based_assessment_of_the_khmer_suite/1558321>`_.
@@ -74,10 +74,10 @@ Six Month Plan
 
 Group goals:
 
-1. A system of project governance is agreed upon and set up through a
-community-centered process. 
+1. A `system of project governance is agreed upon and set up through a
+community-centered process <https://github.com/common-workflow-language/common-workflow-language/issues/146>`_. 
 
-  - A US charitable foundation is set up and it owns assets on behalf of the
+  - A `US charitable foundation <https://github.com/common-workflow-language/common-workflow-language/issues/147>`_ is set up and it owns assets on behalf of the
     community as directed by the new shared governance structure.
   - This foundation is able to provide direct support to contributors from
     donated funds and/or funds raised through competitive grant applications. 
