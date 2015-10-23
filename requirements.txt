@@ -1,1 +1,1 @@
-ablog>=0.8.0
+https://github.com/abakan/ablog/archive/28e7f0e64347bca6da1a2523d412ae0af262ecf3.zip
