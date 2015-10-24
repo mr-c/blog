@@ -30,7 +30,7 @@ unrealistic it was to expect scientific tool authors to describe their tools to
 each system separately. When I saw the group forming I jumped at the chance to
 promote a portable way to describe how to run command line tools.
 
-While I take no credit for it, I am very proud the the working group that grew
+While I take no credit for it, I am very proud that the working group that grew
 around the CWL released their second draft at this year’s BOSC and it was my
 pleasure to `present the work of the team at the conference
 <https://www.youtube.com/watch?v=sF4DJVUcjnU>`_.
@@ -39,7 +39,7 @@ Funding
 =======
 
 Now that the group has established itself and we are attracting even more
-projectis who want to work with us, it is time for the group to mature and grow.
+projects who want to work with us, it is time for the group to mature and grow.
 At BOSC this year I was vocal and open about the fact that there was no
 specific funding for the CWL as a project. To my delight leadership from both
 Curoverse and Seven Bridges Genomics reached out to see what could be done. I
@@ -88,7 +88,7 @@ community-centered process <https://github.com/common-workflow-language/common-w
 
 3. At least 3 implementations of CWL are available and input from groups
    implementing the spec is incorporated to the specification as extensions. 
-4. A manuscript or whitepaper describing CWL is formalized and ready for
+4. A manuscript or position paper describing CWL is formalized and ready for
    submission to a peer-reviewed journal. 
 5. A robust validator is available 
 6. User-facing guides on tool and workflow description are grown via several
