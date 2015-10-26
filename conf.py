@@ -35,6 +35,7 @@ blog_baseurl = u'http://mrc.commonwl.org/'
 # to refer to the author.  Default is ``{}``.
 blog_authors = {
     'Michael R. Crusoe': ('Michael R. Crusoe', None),
+    'me': ('Michael R. Crusoe', None),
 }
 
 
@@ -51,14 +52,14 @@ blog_authors = {
 # links of these locations. Similar to :confval:`blog_authors`, dictionary
 # keys should be used in ``post`` directive to refer to the locations.
 # Default is ``{}``.
-#blog_locations = {
-#    'Earth': ('The Blue Planet', 'http://en.wikipedia.org/wiki/Earth),
-#}
+blog_locations = {
+        'Cluj': ('Cluj-Napoca, Romania', 'http://clujcowork.ro/'),
+}
 
 
 # -- Blog Post Related --------------------------------------------------------
 
-# post_date_format = '%b %d, %Y'
+post_date_format = '%Y-%m-%d'
 
 
 # Number of paragraphs (default is ``1``) that will be displayed as an excerpt
