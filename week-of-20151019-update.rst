@@ -112,7 +112,8 @@ Friday 2015-10-23
 - NSF funding opportunities review
 - More back and forth on the blog feed issue; finally [it got
   fixed](https://github.com/abakan/ablog/issues/54#issuecomment-150762739)!
-- Learned that I was not selected for the Stripe Open Source Retreat 2016.
+- Update on my application for the Stripe Open Source Retreat 2016: I was not
+  selected for further review.
 
 Saturday 2015-10-24
 -------------------
@@ -124,10 +125,17 @@ To do
 
 - Get [Andrey Kartashov's recently contributed
   workflows](https://github.com/common-workflow-language/schema_salad/issues/4)
-  running for myself:
+  running for myself.
 - Familiarize myself with vagrant to setup Jenkins CI server to test CWL
   conformance
 - Refresh my backstory of the CWL slides for the Festival of Genomics workshop.
 - Sketch out more technical slides for TACC/Agave presentation the week after.
-
+- Work with Hervé Ménager to organize a CWL related workshop/codefest in Paris
+  during the Spring.
+- Start the sustainability review.
+- Start an ontological comparision between the semantics of CWL tool and
+  workflow descriptions and [the other known
+  efforts](https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems).
+- Follow up on Code of Conduct
+- Follow up with the Software Freedom Conservancy and NumFOCUS.
 
