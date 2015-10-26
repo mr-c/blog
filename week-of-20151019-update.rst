@@ -43,7 +43,7 @@ Monday 2015-10-19
   <https://github.com/common-workflow-language/common-workflow-language/blob/master/README.md>`_
   and `cwl-avro.yml 
   <https://github.com/common-workflow-language/common-workflow-language/blob/master/draft-3/cwl-avro.yml>`_
-  files via a worklow specified in CWL. The process is initiated by a script
+  files via a workflow specified in CWL. The process is initiated by a script
   that runs on the Arvados CI server. It is good that we are using our own
   tools ("eating our dogfood"); I will document this more as I move the automated
   testing and building of the website from Arvados's servers to ones run by the
@@ -103,7 +103,7 @@ Wednesday 2015-10-21
 Thursday 2015-10-22
 -------------------
 
-- copyedited FoG workshop materials
+- Copyedited FoG workshop materials
 - initial meeting with local tech nonprofit
 - reviewed `mistral`, a workflow engine reported by `Roman Valls Guimerà
   <https://github.com/brainstorm>`_. Made a quick entry on the `wiki
@@ -144,7 +144,7 @@ To do
 - Work with Hervé Ménager to organize a CWL related workshop/codefest in Paris
   during the Spring.
 - Start the sustainability review.
-- Start an ontological comparision between the semantics of CWL tool and
+- Start an ontological comparison between the semantics of CWL tool and
   workflow descriptions and `the other known efforts
   <https://github.com/common-workflow-language/common-workflow-language/wiki/Existing-Workflow-systems>`_.
 - Follow up on Code of Conduct
