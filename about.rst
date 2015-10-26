@@ -6,4 +6,9 @@ About Michael R. Crusoe
 
 CWL Community Engineer.
 
-http://impactstory.org/MichaelRCrusoe
+
+.. raw:: html
+ 
+ <a href="https://impactstory.org/MichaelRCrusoe"><img src="https://impactstory.org/logo/small" width="200" /></a>
+
+
