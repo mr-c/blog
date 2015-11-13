@@ -135,7 +135,7 @@ To do
 -----
 
 - Get `Andrey Kartashov's recently contributed workflows
-  <https://github.com/common-workflow-language/schema_salad/issues/4>`_
+  <https://github.com/common-workflow-language/workflows/tree/master/workflows/scidap>`_
   running for myself.
 - Familiarize myself with vagrant to setup Jenkins CI server to test CWL
   conformance
