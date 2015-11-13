@@ -54,6 +54,8 @@ blog_authors = {
 # Default is ``{}``.
 blog_locations = {
         'Cluj': ('Cluj-Napoca, Romania', 'http://clujcowork.ro/'),
+        'Davis': ('Davis, California, USA', 'http://ivory.idyll.org/lab/'),
+        'Austin': ('Austin, Texas, USA', 'https://www.tacc.utexas.edu/life-sciences-computing'),
 }
 
 

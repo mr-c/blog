@@ -1,7 +1,7 @@
 .. post:: 2015-11-11
    :tags: weekly-update
    :author: me
-   :location: Cluj
+   :location: Austin
 
 ****************************************
 Weekly report for the week of 2015-11-05
