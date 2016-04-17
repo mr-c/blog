@@ -64,7 +64,7 @@ SDKs in multiple languages.
 Reference implementation improvements:
 I finished a review of Peter Amstutz’s ‘cwltool’ and ‘schema salad’. I am maturing
 his work by adding Python 3 compatibility, `type checking
-<https://github.com/common-workflow-language/cwltool/pull/62>_`, code cleanups, and
+<https://github.com/common-workflow-language/cwltool/pull/62>`_, code cleanups, and
 documentation.
 
 Other CWL impacts:
