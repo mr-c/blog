@@ -20,7 +20,7 @@ The initial members of the CWL advisors group are, in alphabetical order:
 - Brandi Davis Dusenbery, Seven Bridges
 - Carole Goble, The University of Manchester / Taverna / ResearchObject.org /
   Wf4ever et cetera
-- Oliver Hofmann, Wolfson Wohl Cancer Research Centre / bcbio-nextgen
+- Oliver Hofmann, University of Melbourne / bcbio-nextgen
 - Gaurav Kaushik, Seven Bridges
 - Hervé Ménager, Institut Pasteur
 - James Taylor, Johns Hopkins University / Galaxy Project
